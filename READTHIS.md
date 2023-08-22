@@ -79,5 +79,27 @@ Escovar os dentes{
     20- saia do banheiro
 }
 Escola{
-    
+    1- (se ja acordado e de uniforme) levantar do sofá
+    2- pegar a bolsa
+    3- abrir a porta
+    4- sair para o quital
+    5- dar tchau para os doguinhos e carinho
+    6- ir ao portão e abrir
+    7- sair e fechar
+    8- andar até o ponto de onibus mais perto de casa(50m)
+    9- esperar o onibus que passe na estação 
+    10- (chegou!) sinalizar que vai entrar
+    11- entrar no onibus
+    12- bom dia motorista!👍
+    13- passar o cartão
+    14- passar a catraca
+    15- ficar em um lugar confortavel do onibus
+    16- (cheguei!)sair do onibus
+    17- entrar na estação
+    18- passar o cartão
+    19- ir para area onde o trem de calmon passa
+    20- pegar o trem
+    21- ir para area onde passa em direção a ferraz
+    22- entrar no trem
+    23- 
 }
