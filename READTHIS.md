@@ -34,5 +34,50 @@ Mercado{
     9- abra a porta do carro
     10- entre dentro do carro
     11- coloque a chave no painel
-    12- 
+    12- gire-o para ligar
+    13- de re para sair da garagem
+    14- se dirija ate a avenida
+    15- vire a esquerda
+    16- siga reto por 300 metros
+    17- vire a direita para entrar no estacionamento do mercado
+    18- chegou!
+}
+Mala{
+    1- no quarto, vire-se para o armario
+    2- abra o seu armario
+    3- observe as opções de roupas
+    4- dentro do armario localize a mala
+    5- pegue a mala
+    6- coloque a mala em cima da cama
+    7- vire se denovo para o armario
+    8- localize as roupas que desejar
+    9- pegue cada uma individualmente
+    10- e distribua sobre a mala organizadamente
+    11- quando selecionar todas roupas feche o ziper da mala
+    12- coloque a mala onde preferir
+}
+Escovar os dentes{
+    1- se ja dentro do banheiro, abra a portinha da pia
+    2- pegue a escova e o creme dental
+    3- abra a tampa da pasta
+    4- coloque a tampa na pia
+    5- aperte o creme dental e coloque uma quantitade rasoavel na escova
+    6- feche a tampa da pasta
+    7- coloque a pasta na pia
+    8- abra a torneira
+    9- coloque a parte com pasta sobre a agua saindo
+    10- feche a torneira
+    11- abra a boca
+    12- coloque a escova em seus dentes
+    13- escove seus dentes
+    14- abra a toneira novamente
+    15- tire a escova da boca
+    16- limpe a escova e enchague a boca
+    17- se olhe no espelho
+    18- de um lindo sorriso
+    19- seque o rosto
+    20- saia do banheiro
+}
+Escola{
+    
 }
